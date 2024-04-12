@@ -1,0 +1,11 @@
+{
+  "name": "javascript-fund-me",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SedrAlex/Java-script-Fund-Me",
+  "author": "SedrAlex313 <124774403+SedrAlex313@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "yarn": "^1.22.22"
+  }
+}
